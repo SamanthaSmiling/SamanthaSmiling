@@ -1,2 +1,2 @@
-# profile
+# SamanthaSmiling
 My personal repository for demos
