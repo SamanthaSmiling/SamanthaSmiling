@@ -1,4 +1,4 @@
-# SamanthaSmiling
+
 # Hi, I'm Xiangyu 👋
 
 - 🔭 I’m working on data science projects
