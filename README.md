@@ -5,4 +5,4 @@
 - 🔭 I worked as data person for years and currently Duke University student for Data Science. 
 - 💬 Please focus on analysis methods and technology—data is not real.
   
- ### ⚡  **[Super Shortcut >>>>>](./Sam_Xiangyu_Selected.pdf)**
+          ### ⚡  **[Super Shortcut >>>>>](./Sam_Xiangyu_Selected.pdf)**
